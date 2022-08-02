@@ -1,0 +1,1 @@
+print(__name__)   # 输出全局变量name的值
